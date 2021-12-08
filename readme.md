@@ -1,4 +1,4 @@
-# Project 9: Out-of-Distribution Detection
+# Project: Out-of-Distribution Detection
 
 This is an introduction of the codes for reproducing the results in my reports.  I use three pretrained models to evaluate the OOD detectors, including DenseNet-BC, Wide ResNet and ResNet. The pretrained models should be stored in the ```./models/``` folder as ```./models/densenet10.pth```, ```./models/wideresnet10.pt``` and ```./models/resnet20.pt``` respectively. The pretrained pretrained models can be downloaded  from [here](https://drive.google.com/file/d/1PbOalSanfZv-t_90xIvbP0DbZhPCzk7l/view?usp=sharing). 
 
